@@ -12,3 +12,10 @@ AVL tree is a self-balancing Binary Search Tree (BST) where the difference betwe
 ### Deleting
 ![image](https://user-images.githubusercontent.com/67274837/117048162-fbc5e880-ad12-11eb-8a8b-2d58cdfa3672.png)
 ![image](https://user-images.githubusercontent.com/67274837/117048297-1dbf6b00-ad13-11eb-859a-8965e1c26e3f.png)
+## Another functions:
+- my_tree.insert(element)
+- my_tree.find(element)
+- my_tree.top()
+- my_tree.height()
+- my_tree.balance() <- only in AVL
+- list(my_tree)
